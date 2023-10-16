@@ -1,4 +1,4 @@
-
+![logo](https://github.com/malikbabarr/malikbabarr/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Malik Babar Mehdi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
